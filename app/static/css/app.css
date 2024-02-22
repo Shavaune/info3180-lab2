@@ -48,7 +48,7 @@ main {
 
 .fisrt{
     background: rgb(205,232,236);
-background: radial-gradient(circle, rgba(205,232,236,1) 12%, rgb(185, 235, 216) 42%, rgba(117,247,226,1) 81%, rgba(68,255,221,1) 100%);
+    background: radial-gradient(circle, rgba(230,255,230,1) 12%, rgb(200, 255, 200) 42%, rgba(150,255,200,1) 81%, rgba(100,255,200,1) 100%);
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -65,7 +65,7 @@ aside {
 
 
 .btn{
-    background-color: #0cd8df;
+    background-color: #8ddd92;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     margin-top: 50px;
     margin-bottom: 30px;
