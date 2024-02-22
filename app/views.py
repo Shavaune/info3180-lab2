@@ -17,7 +17,7 @@ def format_date_joined(date_):
 
 @app.route('/profile')
 def profile():
-    name =  'MaryJane3'
+    name =  'Mary Jane'
     social_handle = '@mjane'
     user_address = 'Kingston,Jamaica'
     user_date = format_date_joined(datetime.strptime('2024-02-17', '%Y-%m-%d'))
