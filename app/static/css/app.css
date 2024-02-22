@@ -48,7 +48,7 @@ main {
 
 .fisrt{
     background: rgb(205,232,236);
-background: radial-gradient(circle, rgba(205,232,236,1) 12%, rgba(185,235,234,1) 42%, rgba(117,247,226,1) 81%, rgba(68,255,221,1) 100%);
+background: radial-gradient(circle, rgba(205,232,236,1) 12%, rgb(185, 235, 216) 42%, rgba(117,247,226,1) 81%, rgba(68,255,221,1) 100%);
     width: 100%;
     display: flex;
     flex-direction: column;
